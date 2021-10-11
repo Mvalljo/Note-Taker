@@ -13,7 +13,8 @@ Build a back end to a starter code with the front end already written to create 
 Clone the code then invoke the application by runnig node server.js in the command line. In the command line a link will be given to go to the application. If not wanting to clone the code you can click on website url to go to application. 
 ## Usage
 User clicks on get started button and is taken to page where user can add or delete notes. When adding notes a save icon is shown after filling in the empty fields for a new note then saving it the note is shown on the left side of the page. If user wants to delete a note then clicking on trash icon would delete it. Also clicking on existing note that are on the left side would appear on the right and if plus sign is clicked then epmty field are shown on the right for a new note to be added.
-website url = 
+
+website url = https://enigmatic-island-21737.herokuapp.com/
 
 ## License
 This appplication is covered under the MIT License.
