@@ -10,7 +10,7 @@ notes.get('/', (req, res) => {
 
 // POST Route for a new note
 notes.post('/', (req, res) => {
-  console.info(`${req.method} request received to add a tip`);
+  console.info(`${req.method} request received to add a note`);
   console.log(req.body);
 
   const { title, text} = req.body;
